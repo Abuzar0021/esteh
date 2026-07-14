@@ -1,0 +1,678 @@
+[
+  {
+    "description": "",
+    "filename": "hero.jpg",
+    "bytes": 163528,
+    "sourceUrl": "https://www.estehindonesia.com/images/partnership/hero.jpg",
+    "firstSeenOn": "https://www.estehindonesia.com/membership",
+    "via": "dom",
+    "width": 1920,
+    "height": 540,
+    "dominantColors": [
+      {
+        "hex": "#98d8f8",
+        "share": 0.23
+      },
+      {
+        "hex": "#88c8f8",
+        "share": 0.07
+      },
+      {
+        "hex": "#78b8e8",
+        "share": 0.05
+      },
+      {
+        "hex": "#78c8e8",
+        "share": 0.05
+      },
+      {
+        "hex": "#88d8f8",
+        "share": 0.04
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "banner-general.jpg",
+    "bytes": 137714,
+    "sourceUrl": "https://www.estehindonesia.com/images/banner-general.jpg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 2048,
+    "height": 1152,
+    "dominantColors": [
+      {
+        "hex": "#f8f8e8",
+        "share": 0.47
+      },
+      {
+        "hex": "#785848",
+        "share": 0.01
+      },
+      {
+        "hex": "#987868",
+        "share": 0.01
+      },
+      {
+        "hex": "#e8e8e8",
+        "share": 0.01
+      },
+      {
+        "hex": "#f8f8f8",
+        "share": 0.01
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "image-not-found.jpg",
+    "bytes": 105711,
+    "sourceUrl": "https://www.estehindonesia.com/images/image-not-found.jpg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 1920,
+    "height": 1920,
+    "dominantColors": [
+      {
+        "hex": "#e8e8e8",
+        "share": 0.88
+      },
+      {
+        "hex": "#b8b8b8",
+        "share": 0.07
+      },
+      {
+        "hex": "#d8d8d8",
+        "share": 0.03
+      },
+      {
+        "hex": "#c8c8c8",
+        "share": 0.02
+      },
+      {
+        "hex": "#c8d8d8",
+        "share": 0
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "bg-store-opening.webp",
+    "bytes": 63466,
+    "sourceUrl": "https://www.estehindonesia.com/images/home/bg-store-opening.webp",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 1920,
+    "height": 2461,
+    "dominantColors": [
+      {
+        "hex": "#088848",
+        "share": 0.27
+      },
+      {
+        "hex": "#e8f8d8",
+        "share": 0.11
+      },
+      {
+        "hex": "#c8e8c8",
+        "share": 0.06
+      },
+      {
+        "hex": "#d8e8d8",
+        "share": 0.05
+      },
+      {
+        "hex": "#b8d8b8",
+        "share": 0.04
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "bg-contact.jpg",
+    "bytes": 48702,
+    "sourceUrl": "https://www.estehindonesia.com/images/bg-contact.jpg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 1920,
+    "height": 1249,
+    "dominantColors": [
+      {
+        "hex": "#98c838",
+        "share": 0.09
+      },
+      {
+        "hex": "#a8c838",
+        "share": 0.09
+      },
+      {
+        "hex": "#78b838",
+        "share": 0.08
+      },
+      {
+        "hex": "#88b838",
+        "share": 0.08
+      },
+      {
+        "hex": "#b8d838",
+        "share": 0.05
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "sign-in.jpg",
+    "bytes": 15623,
+    "sourceUrl": "https://www.estehindonesia.com/images/membership/sign-in.jpg",
+    "firstSeenOn": "https://www.estehindonesia.com/membership",
+    "via": "dom",
+    "width": 479,
+    "height": 314,
+    "dominantColors": [
+      {
+        "hex": "#f8f8f8",
+        "share": 0.77
+      },
+      {
+        "hex": "#e8e8e8",
+        "share": 0.06
+      },
+      {
+        "hex": "#e8d8d8",
+        "share": 0.04
+      },
+      {
+        "hex": "#f8e8e8",
+        "share": 0.02
+      },
+      {
+        "hex": "#d8d8d8",
+        "share": 0.01
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "vt-25cb7229.webp",
+    "bytes": 13282,
+    "sourceUrl": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i12!3i7!4i256!2m3!1e0!2sm!3i786551948!3m18!2sid!3sID!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjJ8cy5lOmx8cC52Om9mZg!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyBlBJtebmohR1n5R84qifoH8_1iPzUoP2k&token=56915",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 256,
+    "height": 256,
+    "dominantColors": [
+      {
+        "hex": "#68d8e8",
+        "share": 0.46
+      },
+      {
+        "hex": "#b8e8d8",
+        "share": 0.06
+      },
+      {
+        "hex": "#a8e8c8",
+        "share": 0.06
+      },
+      {
+        "hex": "#78d8e8",
+        "share": 0.04
+      },
+      {
+        "hex": "#a8d8c8",
+        "share": 0.02
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "corporate-gift.jpg",
+    "bytes": 12532,
+    "sourceUrl": "https://www.estehindonesia.com/images/membership/corporate-gift.jpg",
+    "firstSeenOn": "https://www.estehindonesia.com/membership",
+    "via": "dom",
+    "width": 479,
+    "height": 310,
+    "dominantColors": [
+      {
+        "hex": "#f8f8f8",
+        "share": 0.8
+      },
+      {
+        "hex": "#e8e8e8",
+        "share": 0.04
+      },
+      {
+        "hex": "#e8d8d8",
+        "share": 0.02
+      },
+      {
+        "hex": "#f8e8e8",
+        "share": 0.01
+      },
+      {
+        "hex": "#f8c8c8",
+        "share": 0.01
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "bg-products.webp",
+    "bytes": 12278,
+    "sourceUrl": "https://www.estehindonesia.com/images/home/bg-products.webp",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 1920,
+    "height": 924,
+    "dominantColors": [
+      {
+        "hex": "#d8e8c8",
+        "share": 0.34
+      },
+      {
+        "hex": "#c8e8b8",
+        "share": 0.29
+      },
+      {
+        "hex": "#c8d8a8",
+        "share": 0.17
+      },
+      {
+        "hex": "#d8e8b8",
+        "share": 0.08
+      },
+      {
+        "hex": "#c8d8b8",
+        "share": 0.06
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "register.jpg",
+    "bytes": 11247,
+    "sourceUrl": "https://www.estehindonesia.com/images/membership/register.jpg",
+    "firstSeenOn": "https://www.estehindonesia.com/membership",
+    "via": "dom",
+    "width": 479,
+    "height": 310,
+    "dominantColors": [
+      {
+        "hex": "#f8f8f8",
+        "share": 0.83
+      },
+      {
+        "hex": "#e8e8e8",
+        "share": 0.04
+      },
+      {
+        "hex": "#e8d8d8",
+        "share": 0.02
+      },
+      {
+        "hex": "#f8e8e8",
+        "share": 0.02
+      },
+      {
+        "hex": "#f8d8d8",
+        "share": 0.01
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "collect.jpg",
+    "bytes": 9045,
+    "sourceUrl": "https://www.estehindonesia.com/images/membership/collect.jpg",
+    "firstSeenOn": "https://www.estehindonesia.com/membership",
+    "via": "dom",
+    "width": 768,
+    "height": 410,
+    "dominantColors": [
+      {
+        "hex": "#b8f8e8",
+        "share": 0.51
+      },
+      {
+        "hex": "#a8f8d8",
+        "share": 0.23
+      },
+      {
+        "hex": "#b8d8e8",
+        "share": 0.1
+      },
+      {
+        "hex": "#a8e8d8",
+        "share": 0.02
+      },
+      {
+        "hex": "#a8d8d8",
+        "share": 0.01
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "logo.a9dad3ef.svg",
+    "bytes": 8231,
+    "sourceUrl": "https://www.estehindonesia.com/_next/static/media/logo.a9dad3ef.svg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 179,
+    "height": 65,
+    "svgFills": []
+  },
+  {
+    "description": "",
+    "filename": "logo.svg",
+    "bytes": 8231,
+    "sourceUrl": "https://www.estehindonesia.com/logo.svg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 179,
+    "height": 65,
+    "svgFills": []
+  },
+  {
+    "description": "",
+    "filename": "vt.webp",
+    "bytes": 7268,
+    "sourceUrl": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i11!3i7!4i256!2m3!1e0!2sm!3i786551948!3m18!2sid!3sID!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjJ8cy5lOmx8cC52Om9mZg!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyBlBJtebmohR1n5R84qifoH8_1iPzUoP2k&token=6175",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 256,
+    "height": 256,
+    "dominantColors": [
+      {
+        "hex": "#68d8e8",
+        "share": 0.67
+      },
+      {
+        "hex": "#b8e8d8",
+        "share": 0.07
+      },
+      {
+        "hex": "#c8e8d8",
+        "share": 0.03
+      },
+      {
+        "hex": "#d8e8d8",
+        "share": 0.03
+      },
+      {
+        "hex": "#78d8e8",
+        "share": 0.02
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "vt-a02fbaad.webp",
+    "bytes": 6960,
+    "sourceUrl": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i13!3i8!4i256!2m3!1e0!2sm!3i786551456!3m18!2sid!3sID!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjJ8cy5lOmx8cC52Om9mZg!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyBlBJtebmohR1n5R84qifoH8_1iPzUoP2k&token=109043",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 256,
+    "height": 256,
+    "dominantColors": [
+      {
+        "hex": "#68d8e8",
+        "share": 0.52
+      },
+      {
+        "hex": "#f8f8e8",
+        "share": 0.09
+      },
+      {
+        "hex": "#f8f8f8",
+        "share": 0.06
+      },
+      {
+        "hex": "#78d8d8",
+        "share": 0.04
+      },
+      {
+        "hex": "#78d8e8",
+        "share": 0.03
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "vt-907244c3.webp",
+    "bytes": 6596,
+    "sourceUrl": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i14!3i8!4i256!2m3!1e0!2sm!3i786551456!3m18!2sid!3sID!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjJ8cy5lOmx8cC52Om9mZg!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyBlBJtebmohR1n5R84qifoH8_1iPzUoP2k&token=28712",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 256,
+    "height": 256,
+    "dominantColors": [
+      {
+        "hex": "#68d8e8",
+        "share": 0.57
+      },
+      {
+        "hex": "#f8f8e8",
+        "share": 0.06
+      },
+      {
+        "hex": "#78d8d8",
+        "share": 0.03
+      },
+      {
+        "hex": "#68c8d8",
+        "share": 0.02
+      },
+      {
+        "hex": "#78d8e8",
+        "share": 0.02
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "vt-63bfb6fa.webp",
+    "bytes": 5512,
+    "sourceUrl": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i13!3i7!4i256!2m3!1e0!2sm!3i786551456!3m18!2sid!3sID!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjJ8cy5lOmx8cC52Om9mZg!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyBlBJtebmohR1n5R84qifoH8_1iPzUoP2k&token=9577",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 256,
+    "height": 256,
+    "dominantColors": [
+      {
+        "hex": "#68d8e8",
+        "share": 0.73
+      },
+      {
+        "hex": "#78d8d8",
+        "share": 0.03
+      },
+      {
+        "hex": "#68c8e8",
+        "share": 0.02
+      },
+      {
+        "hex": "#78d8e8",
+        "share": 0.02
+      },
+      {
+        "hex": "#98e8b8",
+        "share": 0.02
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "mail.svg",
+    "bytes": 4025,
+    "sourceUrl": "https://www.estehindonesia.com/icons/mail.svg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 30,
+    "height": 30,
+    "svgFills": []
+  },
+  {
+    "description": "",
+    "filename": "favicon.jpg",
+    "bytes": 2822,
+    "sourceUrl": "https://www.estehindonesia.com/favicon.jpg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "response",
+    "width": 128,
+    "height": 128,
+    "dominantColors": [
+      {
+        "hex": "#f8f8f8",
+        "share": 0.88
+      },
+      {
+        "hex": "#e8e8e8",
+        "share": 0.02
+      },
+      {
+        "hex": "#d8d8d8",
+        "share": 0.02
+      },
+      {
+        "hex": "#c8c8c8",
+        "share": 0.02
+      },
+      {
+        "hex": "#383838",
+        "share": 0.01
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "logo-color.40669c9a.png",
+    "bytes": 1935,
+    "sourceUrl": "https://www.estehindonesia.com/_next/static/media/logo-color.40669c9a.png",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "response",
+    "width": 220,
+    "height": 100,
+    "dominantColors": [
+      {
+        "hex": "#080808",
+        "share": 0.08
+      },
+      {
+        "hex": "#484848",
+        "share": 0.02
+      },
+      {
+        "hex": "#181818",
+        "share": 0.02
+      },
+      {
+        "hex": "#282828",
+        "share": 0.02
+      },
+      {
+        "hex": "#585858",
+        "share": 0.01
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "vt-2964fa00.webp",
+    "bytes": 1756,
+    "sourceUrl": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i12!3i8!4i256!2m3!1e0!2sm!3i786551948!3m18!2sid!3sID!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjJ8cy5lOmx8cC52Om9mZg!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyBlBJtebmohR1n5R84qifoH8_1iPzUoP2k&token=25310",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 256,
+    "height": 256,
+    "dominantColors": [
+      {
+        "hex": "#68d8e8",
+        "share": 0.87
+      },
+      {
+        "hex": "#a8e8c8",
+        "share": 0.02
+      },
+      {
+        "hex": "#68c8d8",
+        "share": 0.01
+      },
+      {
+        "hex": "#98e8c8",
+        "share": 0.01
+      },
+      {
+        "hex": "#78d8e8",
+        "share": 0.01
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "user.svg",
+    "bytes": 1629,
+    "sourceUrl": "https://www.estehindonesia.com/icons/user.svg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 36,
+    "height": 35,
+    "svgFills": []
+  },
+  {
+    "description": "",
+    "filename": "arrow-right.png",
+    "bytes": 1550,
+    "sourceUrl": "https://www.estehindonesia.com/icons/arrow-right.png",
+    "firstSeenOn": "https://www.estehindonesia.com/corporate",
+    "via": "dom",
+    "width": 120,
+    "height": 120,
+    "dominantColors": [
+      {
+        "hex": "#088848",
+        "share": 0.28
+      },
+      {
+        "hex": "#088838",
+        "share": 0.04
+      },
+      {
+        "hex": "#087838",
+        "share": 0.01
+      },
+      {
+        "hex": "#389838",
+        "share": 0
+      },
+      {
+        "hex": "#e8e838",
+        "share": 0
+      }
+    ]
+  },
+  {
+    "description": "",
+    "filename": "instagram.svg",
+    "bytes": 1477,
+    "sourceUrl": "https://www.estehindonesia.com/icons/instagram.svg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 20,
+    "height": 20,
+    "svgFills": []
+  },
+  {
+    "description": "",
+    "filename": "marker.14fbc0f0.svg",
+    "bytes": 1024,
+    "sourceUrl": "https://www.estehindonesia.com/_next/static/media/marker.14fbc0f0.svg",
+    "firstSeenOn": "https://www.estehindonesia.com/",
+    "via": "dom",
+    "width": 24,
+    "height": 24,
+    "svgFills": [
+      "#923c3c"
+    ]
+  }
+]
