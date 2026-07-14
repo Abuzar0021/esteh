@@ -1,0 +1,125 @@
+{
+  "colors": {
+    "primary": {
+      "hex": "#008240",
+      "note": "Esteh Indonesia green. Ground truth from computed background-color on live nav bar and primary buttons (248 occurrences, the single most-used non-neutral color on the site), confirmed against the logo's leaf accent (pixel-sampled at #0C8141, same family within JPEG/PNG compression tolerance)."
+    },
+    "primaryDark": {
+      "hex": "#0A6B36",
+      "note": "Darker shade of the primary green, derived for hover/pressed states and the leaf's shadow vein; matches the darker edge tone sampled from the logo leaf."
+    },
+    "leaf": {
+      "hex": "#0C8141",
+      "note": "Dominant pixel color sampled directly from the leaf accent in the real logo (logo-color.40669c9a.png), which sits above the second 'e' in the wordmark in place of an accent mark. Ground truth per brand identity."
+    },
+    "accentYellow": {
+      "hex": "#FFF23D",
+      "note": "Live site's own <h2> heading color (computed style, https://www.estehindonesia.com/), used for callouts and highlighted copy."
+    },
+    "tintGreen": {
+      "hex": "#F1F7E0",
+      "note": "Pale green tint pulled from stylesheet rules on the live site; used for soft section backgrounds."
+    },
+    "ink": {
+      "hex": "#111111",
+      "note": "Near-black text tone, dominant color in the wordmark and body copy (computed color on body/header/nav)."
+    },
+    "inkSoft": {
+      "hex": "#374151",
+      "note": "Secondary text gray pulled from the live stylesheet (27 occurrences)."
+    },
+    "inkMuted": {
+      "hex": "#6B7280",
+      "note": "Muted text gray pulled from the live stylesheet (17 occurrences)."
+    },
+    "cream": {
+      "hex": "#FBF8F0",
+      "note": "Warm off-white background, matched to the cream backdrop behind the real product photography (products-lineup.jpg / banner-general.jpg)."
+    },
+    "border": {
+      "hex": "#E5E7EB",
+      "note": "Neutral hairline/border gray, most frequent utility color on the live site (397 occurrences)."
+    }
+  },
+  "fonts": {
+    "display": {
+      "family": "Esteh Sans Bold",
+      "source": "Self-hosted TTF downloaded from https://www.estehindonesia.com/fonts/EstehSans/EstehSans-Bold.ttf",
+      "usage": "Headings, wordmark, section titles",
+      "copyright": "© 2022 PT Es Teh Indonesia. All rights reserved."
+    },
+    "body": {
+      "family": "Esteh Sans",
+      "source": "Self-hosted TTF downloaded from https://www.estehindonesia.com/fonts/EstehSans/EstehSans-Regular.ttf",
+      "usage": "Body copy, navigation, UI labels",
+      "copyright": "© 2022 PT Es Teh Indonesia. All rights reserved."
+    },
+    "fallback": "Arial, Helvetica, sans-serif"
+  },
+  "wordmark": {
+    "note": "The real logo reads 'es' + interpunct dot + 'teh', where the second word's accent mark is not a typographic acute accent (é), it is a small tilted green leaf glyph sitting above the 'e' in 'teh', pixel-verified from the real logo file. The template renders this literally: plain 'e' + a positioned leaf SVG (public/images/icon-leaf.svg), never the Unicode 'é' character.",
+      "source": "assets/images/logo-color.40669c9a.png, assets/images/logo.svg"
+  },
+  "images": [
+    { "filename": "hero.jpg", "usedAs": "public/images/hero.jpg", "dimensions": "1920x540", "description": "Three friends laughing, each holding an es.teh cup with straws, on a sky-blue studio backdrop. Real hero photography from the live homepage." },
+    { "filename": "banner-general.jpg", "usedAs": "public/images/products-lineup.jpg", "dimensions": "2048x1152", "description": "Five real es.teh cups in a row on a cream background, each printed with the Monas (Jakarta National Monument) skyline motif and a different drink color (Cokolateh, Thai Tea, Green Tea, Strawberry, Taro). Real product photography from the live site." },
+    { "filename": "bg-store-opening.webp", "usedAs": "public/images/leaf-texture.webp", "dimensions": "1920x2461", "description": "Green tea-leaf branch illustration on a gradient green backdrop, used by the live site behind its Store Opening Timeline section." },
+    { "filename": "bg-contact.jpg", "usedAs": "public/images/leaf-texture-2.jpg", "dimensions": "1920x1249", "description": "Similar green leaf-branch illustration, used behind the live site's contact section." },
+    { "filename": "bg-products.webp", "usedAs": "public/images/leaf-texture-soft.webp", "dimensions": "1920x924", "description": "Soft pale-green leaf-branch illustration, used behind the live site's product section." },
+    { "filename": "logo.svg", "usedAs": "public/images/logo-white.svg", "dimensions": "179x65", "description": "Real wordmark, white fill, used on the live site's dark green nav bar." },
+    { "filename": "logo-color.40669c9a.png", "usedAs": "public/images/logo-color.png", "dimensions": "220x100", "description": "Real wordmark, black text with the green leaf accent, INDONESIA in red beneath. Ground truth for the wordmark treatment." },
+    { "filename": "instagram.svg", "usedAs": "public/images/icon-instagram.svg", "dimensions": "20x20", "description": "Real Instagram glyph from the live site's footer." },
+    { "filename": "mail.svg", "usedAs": "public/images/icon-mail.svg", "dimensions": "30x30", "description": "Real mail/contact glyph from the live site." },
+    { "filename": "favicon.jpg", "usedAs": "public/images/favicon.jpg", "dimensions": "128x128", "description": "Live site's real favicon." },
+    { "filename": "icon-leaf.svg", "usedAs": "public/images/icon-leaf.svg", "dimensions": "64x64", "description": "Vectorized reproduction of the leaf accent found in logo-color.40669c9a.png (same tilt, same silhouette, same sampled green), used to render the wordmark's leaf-as-accent crisply at any size. Not a new brand element, a scalable trace of the existing one." }
+  ],
+  "video": {
+    "filename": "brew-loop.mp4",
+    "source": "provided by project owner",
+    "duration": "~8s",
+    "codec": "H.264 / mp4",
+    "usage": "Scroll-driven brand film section between the hero and the menu."
+  },
+  "copy": {
+    "companyName": "PT. Esteh Indonesia Makmur",
+    "founded": "2018",
+    "incorporated": "11 September 2019",
+    "founders": ["Haidhar Hibatullah Wurjanto", "Dihya Nur Rifqy", "Aussie Andry", "Edwin Widya"],
+    "email": "callcenter@estehindonesia.com",
+    "address": "Jl. Achmad Adnawijaya, RT. 02 / RW. 05, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat, 16152",
+    "social": {
+      "instagram": "https://www.instagram.com/esteh.indonesia/?hl=id",
+      "tiktok": "https://www.tiktok.com/@estehindonesia",
+      "facebook": "https://www.facebook.com/estehindonesiamedia/"
+    },
+    "milestones": [
+      { "year": "2018", "label": "Didirikan dengan booth 1x2 meter di Kemang Village & Blok M" },
+      { "year": "2019", "label": "Resmi menjadi PT. Esteh Indonesia Makmur, 19 outlet" },
+      { "year": "2020", "label": "200 outlet di seluruh Indonesia" },
+      { "year": "2021", "label": "450 outlet dan terus bertumbuh" },
+      { "year": "2022", "label": "1000+ outlet, standar kualitas nasional" }
+    ],
+    "sourceNote": "All milestones are published verbatim (translated for the year labels only) on https://www.estehindonesia.com/corporate. No figures invented; the site does not publish a more recent outlet count, so none is claimed here.",
+    "menu": ["Esteh Green Tea", "Esteh Susu Nusantara", "Cokolateh", "Strawberry Milk Tea", "Sea Salt Cookies & Cream"],
+    "menuSourceNote": "Current signature line-up as shown on the live homepage's #ESTEHADALAHKITA product grid.",
+    "partnershipHeadline": "Bosteh Cari Mitra",
+    "partnershipBullets": [
+      "Niat Jadi Pengusaha",
+      "Goals: Passive Income, Sultan Become",
+      "Nggak Gampang Nyerah",
+      "Mau Buat Brand Lokal Bertumbuh Mendunia",
+      "Membantu Petani Teh Sejahtera"
+    ],
+    "partnershipSourceNote": "Recruitment banner copy read directly off the live homepage (rendered as a marketing graphic rather than DOM text, so captured by direct inspection rather than the crawler).",
+    "storeOpeningSteps": [
+      "Commitment Fee",
+      "Survei Lokasi",
+      "Design Pembangunan Outlet Kebun",
+      "Pelunasan Lisensi Fee",
+      "Kirim Equipment & Bahan Baku",
+      "Training Karyawan",
+      "Opening Outlet/Kebun Es Teh Indonesia"
+    ],
+    "storeOpeningSourceNote": "Verbatim numbered list from https://www.estehindonesia.com/partnership."
+  }
+}
