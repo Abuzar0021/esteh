@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Premium redesign template for estehindonesia.com — OmniStack Digital",
+  "description": "Premium redesign template for estehindonesia.com, built for OmniStack Digital",
   "scripts": {
     "extract": "node scripts/extract.mjs",
     "dev": "vite",
@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "gsap": "^3.12.5",
-    "lenis": "^1.1.18",
-    "three": "^0.171.0"
+    "lenis": "^1.1.18"
   }
 }

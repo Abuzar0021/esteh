@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#008240" />
+  <title>es.teh Indonesia, Premium Redesign Template</title>
+  <meta name="description" content="Es.teh Indonesia. Diseduh dari daun teh pilihan sejak 2018, kini hadir di lebih dari seribu outlet di seluruh Indonesia." />
+  <link rel="icon" type="image/jpeg" href="/images/favicon.jpg" />
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+
+  <div class="grain" aria-hidden="true"></div>
+
+  <div class="cursor" id="cursor" aria-hidden="true">
+    <div class="cursor__dot"></div>
+    <div class="cursor__ring"></div>
+  </div>
+
+  <div class="loader" id="loader" aria-hidden="true">
+    <div class="loader__mark">
+      <span>es</span><span class="dot">.</span><span class="hero__line-wrap loader__leaf-wrap">t<span>e</span>h<img src="/images/icon-leaf.svg" alt="" class="leaf-accent" /></span>
+    </div>
+  </div>
+
+  <header class="nav" id="nav">
+    <div class="nav__inner">
+      <a href="#top" class="nav__logo" aria-label="es.teh Indonesia, beranda">
+        <img src="/images/logo-white.svg" alt="es.teh Indonesia" width="120" height="44" />
+      </a>
+      <nav class="nav__links" aria-label="Navigasi utama">
+        <a href="#kisah" class="nav__link"><span>Kisah Kami</span></a>
+        <a href="#menu" class="nav__link"><span>Menu</span></a>
+        <a href="#kemitraan" class="nav__link"><span>Kemitraan</span></a>
+        <a href="#kontak" class="nav__link"><span>Kontak</span></a>
+      </nav>
+      <a href="#kemitraan" class="nav__cta">Jadi Mitra</a>
+      <button class="nav__burger" id="navBurger" aria-label="Buka menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <div class="mobile-menu" id="mobileMenu">
+    <nav class="mobile-menu__links" aria-label="Navigasi mobile">
+      <a href="#kisah">Kisah Kami</a>
+      <a href="#menu">Menu</a>
+      <a href="#kemitraan">Kemitraan</a>
+      <a href="#kontak">Kontak</a>
+    </nav>
+    <a href="#kemitraan" class="btn btn--primary">Jadi Mitra</a>
+  </div>
+
+  <main id="top">
+
+    <!-- HERO -->
+    <section class="hero" id="hero" aria-label="es.teh Indonesia">
+      <div class="hero__bg">
+        <img src="/images/hero.jpg" alt="Tiga sahabat tertawa sambil memegang cup es.teh" class="hero__img" id="heroImg" />
+        <div class="hero__scrim"></div>
+      </div>
+
+      <div class="hero__content">
+        <p class="hero__eyebrow reveal-up">Teh-nya orang Indonesia, sejak 2018</p>
+        <h1 class="hero__word" id="heroWord" aria-label="es.teh Indonesia">
+          <span class="hero__line">
+            <span class="split-char">e</span><span class="split-char">s</span>
+          </span>
+          <span class="hero__line hero__line--dot">
+            <span class="split-char dot-char">.</span>
+          </span>
+          <span class="hero__line-wrap">
+            <span class="hero__line">
+              <span class="split-char">t</span><span class="split-char">e</span><span class="split-char">h</span>
+            </span>
+            <img src="/images/icon-leaf.svg" alt="" class="leaf-accent" />
+          </span>
+        </h1>
+        <p class="hero__sub reveal-up">Dari booth 1x2 meter di Kemang Village tahun 2018, kini tumbuh menjadi lebih dari seribu outlet di seluruh Indonesia.</p>
+        <div class="hero__actions reveal-up">
+          <a href="#menu" class="btn btn--primary">Lihat Menu</a>
+          <a href="#kemitraan" class="btn btn--ghost">Peluang Kemitraan</a>
+        </div>
+      </div>
+
+      <div class="hero__cue" aria-hidden="true">
+        <span>Gulir ke bawah</span>
+        <div class="hero__cue-line"><div class="hero__cue-fill"></div></div>
+      </div>
+    </section>
+
+    <!-- MARQUEE -->
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee__track" id="marqueeTrack">
+        <span>Es Teh Manis</span><span class="marquee__sep">·</span>
+        <span>Es Teh Lemon</span><span class="marquee__sep">·</span>
+        <span>Es Teh Leci</span><span class="marquee__sep">·</span>
+        <span>Thai Tea</span><span class="marquee__sep">·</span>
+        <span>Cokolateh</span><span class="marquee__sep">·</span>
+        <span>Esteh Susu Nusantara</span><span class="marquee__sep">·</span>
+      </div>
+    </div>
+
+    <!-- FILM / SCROLL VIDEO -->
+    <section class="film" id="film" aria-label="Diseduh dengan cinta">
+      <div class="film__sticky">
+        <video
+          class="film__video"
+          id="filmVideo"
+          src="/video/brew-loop.mp4"
+          muted
+          playsinline
+          preload="metadata"
+          aria-hidden="true"
+        ></video>
+        <div class="film__scrim"></div>
+        <div class="film__text">
+          <p class="reveal-up">Setiap gelas diseduh dengan standar yang sama sejak outlet pertama kami berdiri.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- STORY -->
+    <section class="section story" id="kisah">
+      <div class="story__grid">
+        <div class="story__media reveal-scale">
+          <img src="/images/products-lineup.jpg" alt="Lima varian es.teh dalam cup bermotif Monas, di atas meja krem" loading="lazy" />
+        </div>
+        <div class="story__copy">
+          <p class="eyebrow reveal-up">Kisah Kami</p>
+          <h2 class="reveal-up">Dari booth kecil di Blok M, jadi rasa yang dikenal seluruh Indonesia.</h2>
+          <p class="reveal-up">Esteh Indonesia didirikan tahun 2018 oleh Haidhar Hibatullah Wurjanto, Dihya Nur Rifqy, Aussie Andry, dan Edwin Widya. Berjualan pertama kali di Kemang Village dan Blok M dengan booth berukuran 1x2 meter, membawa lima menu andalan: Es Teh Manis, Es Teh Lemon, Es Teh Leci, Es Teh Susu, dan Thai Tea.</p>
+          <p class="reveal-up">Pada 11 September 2019, Esteh Indonesia resmi menjadi PT. Esteh Indonesia Makmur. Sejak itu, pertumbuhannya konsisten: dari 19 outlet di akhir 2019, menjadi 200 di akhir 2020, 450 di akhir 2021, dan lebih dari 1000 outlet pada 2022.</p>
+
+          <div class="milestones" id="milestones">
+            <div class="milestone reveal-up">
+              <span class="milestone__num" data-count="2018" data-suffix="">2018</span>
+              <span class="milestone__label">Berdiri di Kemang Village</span>
+            </div>
+            <div class="milestone reveal-up">
+              <span class="milestone__num" data-count="19" data-suffix="">0</span>
+              <span class="milestone__label">Outlet di akhir 2019</span>
+            </div>
+            <div class="milestone reveal-up">
+              <span class="milestone__num" data-count="450" data-suffix="">0</span>
+              <span class="milestone__label">Outlet di akhir 2021</span>
+            </div>
+            <div class="milestone reveal-up">
+              <span class="milestone__num" data-count="1000" data-suffix="+">0</span>
+              <span class="milestone__label">Outlet pada 2022</span>
+            </div>
+          </div>
+          <p class="source-note">Angka pertumbuhan diambil langsung dari halaman Corporate estehindonesia.com.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- MENU -->
+    <section class="section section--cream" id="menu">
+      <div class="section__head">
+        <p class="eyebrow reveal-up">#EstehAdalahKita</p>
+        <h2 class="reveal-up">Menu andalan kami.</h2>
+      </div>
+      <div class="menu-grid" id="menuGrid">
+        <article class="menu-card" data-tilt>
+          <div class="menu-card__inner">
+            <span class="menu-card__icon"><img src="/images/icon-leaf.svg" alt="" /></span>
+            <h3>Esteh Green Tea</h3>
+            <p>Signature series</p>
+          </div>
+        </article>
+        <article class="menu-card" data-tilt>
+          <div class="menu-card__inner">
+            <span class="menu-card__icon"><img src="/images/icon-leaf.svg" alt="" /></span>
+            <h3>Esteh Susu Nusantara</h3>
+            <p>Signature series</p>
+          </div>
+        </article>
+        <article class="menu-card" data-tilt>
+          <div class="menu-card__inner">
+            <span class="menu-card__icon"><img src="/images/icon-leaf.svg" alt="" /></span>
+            <h3>Cokolateh</h3>
+            <p>Signature series</p>
+          </div>
+        </article>
+        <article class="menu-card" data-tilt>
+          <div class="menu-card__inner">
+            <span class="menu-card__icon"><img src="/images/icon-leaf.svg" alt="" /></span>
+            <h3>Strawberry Milk Tea</h3>
+            <p>Signature series</p>
+          </div>
+        </article>
+        <article class="menu-card" data-tilt>
+          <div class="menu-card__inner">
+            <span class="menu-card__icon"><img src="/images/icon-leaf.svg" alt="" /></span>
+            <h3>Sea Salt Cookies &amp; Cream</h3>
+            <p>Signature series</p>
+          </div>
+        </article>
+      </div>
+      <p class="section__note reveal-up">Lini menu saat ini, sebagaimana ditampilkan di estehindonesia.com.</p>
+    </section>
+
+    <!-- TIMELINE -->
+    <section class="section timeline" id="proses">
+      <div class="timeline__bg">
+        <img src="/images/leaf-texture.webp" alt="" aria-hidden="true" />
+      </div>
+      <div class="section__head">
+        <p class="eyebrow reveal-up">Jadi Mitra</p>
+        <h2 class="reveal-up">Tahapan pembukaan outlet.</h2>
+      </div>
+      <ol class="timeline__list" id="timelineList">
+        <li class="timeline__item reveal-up"><span class="timeline__index">01</span><span>Commitment Fee</span></li>
+        <li class="timeline__item reveal-up"><span class="timeline__index">02</span><span>Survei Lokasi</span></li>
+        <li class="timeline__item reveal-up"><span class="timeline__index">03</span><span>Design Pembangunan Outlet Kebun</span></li>
+        <li class="timeline__item reveal-up"><span class="timeline__index">04</span><span>Pelunasan Lisensi Fee</span></li>
+        <li class="timeline__item reveal-up"><span class="timeline__index">05</span><span>Kirim Equipment &amp; Bahan Baku</span></li>
+        <li class="timeline__item reveal-up"><span class="timeline__index">06</span><span>Training Karyawan</span></li>
+        <li class="timeline__item reveal-up"><span class="timeline__index">07</span><span>Opening Outlet/Kebun Es Teh Indonesia</span></li>
+      </ol>
+    </section>
+
+    <!-- PARTNERSHIP CTA -->
+    <section class="section partnership" id="kemitraan">
+      <div class="partnership__inner">
+        <p class="eyebrow reveal-up">Bosteh Cari Mitra</p>
+        <h2 class="reveal-up">Niat jadi pengusaha? Mulai dari sini.</h2>
+        <ul class="partnership__list">
+          <li class="reveal-up">Goals: passive income, jadi juragan</li>
+          <li class="reveal-up">Nggak gampang nyerah</li>
+          <li class="reveal-up">Mau buat brand lokal bertumbuh mendunia</li>
+          <li class="reveal-up">Membantu petani teh sejahtera</li>
+        </ul>
+        <div class="reveal-up">
+          <a href="mailto:callcenter@estehindonesia.com" class="btn btn--magnetic" id="magneticBtn">
+            <span>Jadi Mitra Sekarang</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer" id="kontak">
+    <div class="footer__inner">
+      <div class="footer__brand">
+        <img src="/images/logo-white.svg" alt="es.teh Indonesia" width="140" height="51" />
+        <p>PT. Esteh Indonesia Makmur</p>
+        <p>Jl. Achmad Adnawijaya, RT. 02 / RW. 05, Tegal Gundil,<br />Kec. Bogor Utara, Kota Bogor, Jawa Barat, 16152</p>
+        <a href="mailto:callcenter@estehindonesia.com">callcenter@estehindonesia.com</a>
+      </div>
+      <div class="footer__cols">
+        <div class="footer__col">
+          <h4>Perusahaan</h4>
+          <a href="#kisah">Kisah Kami</a>
+          <a href="https://www.estehindonesia.com/news" target="_blank" rel="noopener">Berita</a>
+          <a href="https://www.estehindonesia.com/career" target="_blank" rel="noopener">Karier</a>
+        </div>
+        <div class="footer__col">
+          <h4>Produk</h4>
+          <a href="#menu">Menu</a>
+          <a href="https://www.estehindonesia.com/merchandise" target="_blank" rel="noopener">Merchandise</a>
+          <a href="#kemitraan">Kemitraan</a>
+        </div>
+        <div class="footer__col">
+          <h4>Ikuti Kami</h4>
+          <a href="https://www.instagram.com/esteh.indonesia/?hl=id" target="_blank" rel="noopener">Instagram</a>
+          <a href="https://www.tiktok.com/@estehindonesia" target="_blank" rel="noopener">TikTok</a>
+          <a href="https://www.facebook.com/estehindonesiamedia/" target="_blank" rel="noopener">Facebook</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <p>Copyright &copy; Esteh Indonesia 2026</p>
+      <p class="footer__credit">Template redesign by OmniStack Digital</p>
+    </div>
+  </footer>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
